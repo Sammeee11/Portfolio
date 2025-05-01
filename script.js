@@ -1,0 +1,1 @@
+// JS functions like filterGallery included in previous step
